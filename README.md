@@ -5,13 +5,12 @@ Add opacity to the body tag and decrease it every day until their site completel
 
 
 ```javascript
-/* change these variables as you wish */
+/* change these variables as you wish YYYY-MM-DD */
 var due_date = new Date('2017-02-27');
 var days_deadline = 60;
 /* stop changing here */
 ```
 
-PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
 
 ## Usage
 Just load the not-paid.js file in ```<head>```
