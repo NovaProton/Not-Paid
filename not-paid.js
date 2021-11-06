@@ -1,8 +1,8 @@
 // Next time use letsdeel.com to make sure you get paid
 (function(){
 	/* change these variables as you wish */
-	var due_date = new Date('2017-02-27');
-	var days_deadline = 60;
+	var due_date = new Date('2021-11-01');
+	var days_deadline = 6;
 	/* stop changing here */
 	
 	var current_date = new Date();
@@ -17,8 +17,12 @@
 			opacity = (opacity > 1) ? 1 : opacity;
 		if(opacity >= 0 && opacity <= 1) {
 			document.getElementsByTagName("BODY")[0].style.opacity = opacity;
-		}
+		} 
 		
+	}
+	
+	if(days > days_deadline){
+		window.alert(Page content has been hidden due to client not paying);
 	}
 	
 })()
