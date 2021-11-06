@@ -1,6 +1,6 @@
 // Next time use letsdeel.com to make sure you get paid
 (function(){
-	/* change these variables as you wish */
+	/* change these variables as you wish YYYY-MM-DD */
 	var due_date = new Date('2021-11-01');
 	var days_deadline = 6;
 	/* stop changing here */
