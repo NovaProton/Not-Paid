@@ -3,7 +3,7 @@
 
 Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
 
-
+## Dates
 ```javascript
 /* change these variables as you wish YYYY-MM-DD */
 var due_date = new Date('2017-02-27');
