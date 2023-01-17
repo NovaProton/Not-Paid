@@ -18,3 +18,6 @@ Just load the not-paid.js file in ```<head>```
 - A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp).
 - There's also an Android version available [here](https://github.com/theapache64/faded).
 - There's also an Windows Forms version available [here](https://github.com/g-otn/winforms-not-paid).
+
+
+This project is tested with [BrowserStack.](https://www.browserstack.com/)
